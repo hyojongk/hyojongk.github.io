@@ -9,23 +9,22 @@ redirect_from:
 {% include base_path %}
 
 Email: __hyojong.kim@gatech.edu__
+
 [CV](https://www.dropbox.com/s/ew7v3mif9ng145h/resume_hyojong_kim_201909.pdf?dl=0)
 
 <!-- ### Interests
 Computer Architecture, GPUs, Memory Systems, Distributed Computing, Processing in Memory -->
 
 ### Education
-======
 * B.S. in Electrical Engineering and Computer Science, Seoul National University, 2012
 * Ph.D. in Computer Science, Georgia Tech, 2019 (expected)
 
 ### Research / Work Experience
-======
 * Aug 2012 - Present: Research Assistant
   * Georgia Tech (Atlanta, Georgia)
   * Adviser: [Dr. Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/)
 
-* May 2015 - Aug 2016: Co-op Engineer (Research Intern)
+* May 2015 - Aug 2016: Co-op Engineer
   * AMD Research (Sunnyvale, California)
   * Mentor: [Dr. Nuwan Jayasena](https://www.linkedin.com/in/nuwan/)  
   * Project: Virtual address support for PIM architecture
@@ -55,7 +54,6 @@ Computer Architecture, GPUs, Memory Systems, Distributed Computing, Processing i
   * Project: 3D car navigation system development
 
 ### Skills
-======
 * Programming Languages: C/C++, Python
 * Select Graduate Courses
   * High Performance Computer Architecture
@@ -64,8 +62,7 @@ Computer Architecture, GPUs, Memory Systems, Distributed Computing, Processing i
   * Algorithms and Computability
 
 ### Open Source Software
-======
-* MacSim: a heterogeneous architecture timing model simulator
+* MacSim: a cycle-accurate heterogeneous micro-architecture simulator
   * Added virtual memory support for x86 and GPU architectures
   * Modeled Intel GEN GPU architecture in MacSim
   * Integrated MacSim with SST framework
