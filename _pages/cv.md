@@ -8,15 +8,17 @@ redirect_from:
 
 {% include base_path %}
 
-Email: __hyojong.kim@gatech.edu__  
+Email: [hyojong.kim@gatech.edu](mailto:hyojong.kim@gatech.edu)  
 Curriculum vitae: [CV](https://hyojongk.github.io/files/resume.pdf)
 
-<!-- ### Interests
-Computer Architecture, GPUs, Memory Systems, Distributed Computing, Processing in Memory -->
-
 ### Education
-* B.S. in Electrical Engineering and Computer Science, Seoul National University, 2012
 * Ph.D. in Computer Science, Georgia Tech, 2019 (expected)
+* B.S. in Electrical Engineering and Computer Science, Seoul National University, 2012
+
+### Skills
+* Programming Languages: C/C++, Python
+* Architecture Simulators: MacSim, SST, GEM5, GPGPU-Sim
+* Research Domains: Computer Architecture, GPUs, Memory Systems, Hardware Accelerators, Distributed Computing, Processing in Memory, Performance Modeling
 
 ### Research / Work Experience
 * Aug 2012 - Present: Research Assistant
@@ -52,16 +54,8 @@ Computer Architecture, GPUs, Memory Systems, Distributed Computing, Processing i
   * Citus Co., Ltd. (South Korea)
   * Project: 3D car navigation system development
 
-### Skills
-* Programming Languages: C/C++, Python
-* Select Graduate Courses
-  * High Performance Computer Architecture
-  * Advanced Microarchitecture
-  * Advanced Topics in Memory Systems
-  * Algorithms and Computability
-
 ### Open Source Software
-* MacSim: a cycle-accurate heterogeneous micro-architecture simulator
+* [MacSim: a cycle-accurate heterogeneous micro-architecture simulator](https://github.com/gthparch/macsim)
   * Added virtual memory support for x86 and GPU architectures
   * Modeled Intel GEN GPU architecture in MacSim
   * Integrated MacSim with SST framework
