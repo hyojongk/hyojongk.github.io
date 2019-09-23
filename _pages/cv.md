@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 Email: __hyojong.kim@gatech.edu__  
-Curriculum vitae: [CV](https://www.dropbox.com/s/ew7v3mif9ng145h/resume_hyojong_kim_201909.pdf?dl=0)
+Curriculum vitae: [CV](https://hyojongk.github.io/files/resume.pdf)
 
 <!-- ### Interests
 Computer Architecture, GPUs, Memory Systems, Distributed Computing, Processing in Memory -->
