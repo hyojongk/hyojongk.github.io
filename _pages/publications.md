@@ -5,13 +5,13 @@ author_profile: true
 ---
 ## 2020
   * __Batch-Aware Unified Memory Management in GPUs for Irregular Workloads__  
-    __Hyojong Kim__, Jaewoong Sim, Prasun Gera, Ramyad Hadidi, and Hyesoon Kim
-    Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020
+    __Hyojong Kim__, Jaewoong Sim, Prasun Gera, Ramyad Hadidi, and Hyesoon Kim  
+    Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020  
 
 ## 2019
-  * __Impact of Instruction Set Architecture on Machine Learning Workloads__
-    Jeung Moon Lee, Hyesoon Kim, __Hyojong Kim__, Pranith Kumar
-    The Student Research Competition at the International Conference on Parallel Architectures and Compilation Techniques (PACT SRC), 2019
+  * __Impact of Instruction Set Architecture on Machine Learning Workloads__  
+    Jeung Moon Lee, Hyesoon Kim, __Hyojong Kim__, Pranith Kumar  
+    The Student Research Competition at the International Conference on Parallel Architectures and Compilation Techniques (PACT SRC), 2019  
   * __FlashGPU: Placing New Flash Next to GPU Cores__  
     Jie Zhang, Miryeong Kwon, __Hyojong Kim__, Hyesoon Kim, and Myoungsoo Jung  
     Design Automation Conference (DAC), 2019  
